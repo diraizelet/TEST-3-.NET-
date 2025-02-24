@@ -43,8 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstractionss.cs" />
+    <Compile Include="BankDetails.cs" />
+    <Compile Include="Calculator.cs" />
+    <Compile Include="Constoverloading.cs" />
+    <Compile Include="DataHiding.cs" />
+    <Compile Include="MethodOverrifding.cs" />
+    <Compile Include="Printable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VideoPlayer.cs" />
+    <Compile Include="VirtualMethod.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
