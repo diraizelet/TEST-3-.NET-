@@ -1,4 +1,7 @@
-﻿namespace Printable
+﻿using System;
+using System.IO;
+
+namespace Printable
 {
     public interface IPrintable
     {

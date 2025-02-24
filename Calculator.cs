@@ -1,4 +1,6 @@
-﻿namespace Calculator_class
+﻿using System;
+
+namespace Calculator_class
 {
     public class Calculator
     {

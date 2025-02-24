@@ -1,4 +1,6 @@
-﻿namespace VideoPlayer
+﻿using System;
+
+namespace VideoPlayer
 {
     public interface IPlayable
     {

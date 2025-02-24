@@ -1,4 +1,6 @@
-﻿namespace VirtualMethod
+﻿using System;
+
+namespace VirtualMethod
 {
     public class Vehicle
     {
