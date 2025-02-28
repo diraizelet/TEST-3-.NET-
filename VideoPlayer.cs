@@ -23,15 +23,4 @@ namespace VideoPlayer
         }
     }
 
-    public class Program
-    {
-        public static void Main()
-        {
-            IPlayable musicPlayer = new MusicPlayer();
-            IPlayable videoPlayer = new VideoPlayer();
-
-            musicPlayer.Play(); // Output: Playing music...
-            videoPlayer.Play(); // Output: Playing video...
-        }
-    }
 }
